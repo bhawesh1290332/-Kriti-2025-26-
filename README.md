@@ -62,4 +62,13 @@ python 2613_CodeBase_QuantFinChallenge.py
 
 ---
 
+## Key Graphs
+<img width="1392" height="697" alt="image" src="https://github.com/user-attachments/assets/ef02d731-4af1-4709-94c1-ad7d94ac4acc" />
+
+Equity curve vs Benchmark
+
+<img width="1621" height="665" alt="image" src="https://github.com/user-attachments/assets/aae35259-1bef-4bb2-86c0-2e43fc08785e" />
+
+Strategy Drawdown Profile
+
 *Developed as part of Kriti 2026 Quant Finance Challenge, IIT Guwahati.*
